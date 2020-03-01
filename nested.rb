@@ -46,9 +46,9 @@ def changing_alan
      
 end
 
-changing_alan
+#changing_alan
 
-p hopper[:alan_kay]
+#p hopper[:alan_kay]
 
 def adding_to_dennis
 	programmer_hash = 
