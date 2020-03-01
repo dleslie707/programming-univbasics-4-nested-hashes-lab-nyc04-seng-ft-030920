@@ -46,7 +46,7 @@ def changing_alan
      
 end
 
-#changing_alan
+changing_alan
 
 p hopper[:alan_kay]
 
