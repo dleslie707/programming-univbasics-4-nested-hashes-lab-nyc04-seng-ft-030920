@@ -43,14 +43,12 @@ end
 
 def changing_alan
 	p hopper[:alan_kay] ={:alans_new_info => "GUI"}
-	
-     #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
-     alans_new_info = "GUI"
-     
      
 end
 
 changing_alan
+
+p 
 
 def adding_to_dennis
 	programmer_hash = 
