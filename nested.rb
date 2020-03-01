@@ -60,7 +60,7 @@ def adding_matz
 
 end
 
-add_matz 
+adding_matz 
 
 p hopper
 
