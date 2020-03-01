@@ -56,4 +56,4 @@ end
 
 adding_to_dennis
 
-p hopper[dennis_ritchie]
+p hopper[:dennis_ritchie]
