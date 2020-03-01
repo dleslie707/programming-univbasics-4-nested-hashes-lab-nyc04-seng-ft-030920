@@ -51,20 +51,9 @@ end
 #p hopper[:alan_kay]
 
 def adding_to_dennis
-	programmer_hash = 
- 		{
-        :grace_hopper => {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
-        },
-        :alan_kay => {
-          :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
-        },
-        :dennis_ritchie => {
-          :known_for => "Unix",
-          :languages => ["C"]
-        }
-     }
-
+	p hopper[:dennis_ritchie] = {:more_dennie_info => "He is so cool"}
 end
+
+adding_to_dennis
+
+p hopper[dennis_ritchie]
